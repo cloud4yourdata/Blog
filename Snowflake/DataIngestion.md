@@ -1,8 +1,8 @@
-Snowflake - Ładowanie danych 
+# Snowflake - Ładowanie danych 
 
-Snowflake oferuje 3 podstawowe mechnizmy ładowania danych:
+Snowflake oferuje **3** podstawowe mechanizmy ładowania danych:
 
-#### [Snowpipe] (./Snowpipes.md)
+#### [ Snowpipe ] ( ./Snowpipes.md )
 
-#### [Copy Into] (./CopyIntoADF.md)
+#### [ Copy Into ] ( ./CopyIntoADF.md )
 
