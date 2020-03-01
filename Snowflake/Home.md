@@ -1,4 +1,4 @@
 # Snowflake DW
 
-[Ładowanie danych](./DataIngestion.md) 
+## [Ładowanie danych](./DataIngestion.md) 
 
