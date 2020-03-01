@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+### Cloud 4 Your Data
+Przetwarzanie dużych zbiorów danych jednym z najważniejszych wyzwań informatyki 21 wieku. 
+Według szacunków do 2020 roku wygenerujmy **40 Zetta byte’ów**, a do 2025 **163 Zetta byte’ów** różnego rodzaju danych.
 
-You can use the [editor on GitHub](https://github.com/cloud4yourdata/blog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Ile to danych obrazuje poniższe porównanie:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- **Byte**  One grain of rice
+- **Kilobyte**  Cup of rice
+- **Megabyte**  8 bags of rice
+- **Gigabyte**  3 semi trucks
+- **Terabyte**  2 container ships
+- **Petabyte**  Blankets Manhattan
+- **Exabyte**  Blankets west coast states
+- **Zettabyte**  Fills the Pacific Ocean
+- **Yottabyte**  As earth-sized rice ball
 
-### Markdown
+Firmy i różnego rodzaju instytucje uświadamiają sobie, że same posiadane dane są wartością, a ich dokładna analiza pozwali na odkrywanie nowych zjawisk, optymalizacje czy wspomaganie procesów decyzyjnych. Aby efektywnie przetwarzać tak duże zbiory danych potrzebujemy nowych technik analizy danych oraz rozwiązań technologicznych. Istotnym elementem procesu przetwarzania jest chmura. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+***
+Na rynku jest wiele rozwiązań do przechowywania i analizy danych. Na blogu przedstawione zostaną moim zdaniem ciekawe podejścia do rozwiązywania niektórych problemów. Blog podzielony na kilka obszarów tematycznych:
 
-```markdown
-Syntax highlighted code block
+#### [Architektura](./Architecture/Home.md)
 
-# Header 1
-## Header 2
-### Header 3
+#### [Snowflake](./Snowflake/Home.md)
 
-- Bulleted
-- List
+#### [Synapse](./Synapse/Home.md)
 
-1. Numbered
-2. List
+  
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cloud4yourdata/blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
