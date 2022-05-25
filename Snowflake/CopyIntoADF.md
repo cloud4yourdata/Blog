@@ -1,1 +1,0 @@
-# Snowflake -Copy Into + Azure Data Factory
