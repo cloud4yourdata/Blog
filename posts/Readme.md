@@ -1,3 +1,9 @@
 ### Posts
 #### 2022-05
-- [Cloud Models](CloudModels.md) 
+- [Chmura - modele usług ](CloudModels.md)
+- [Wyzwania związane z przechowywaniem i przetwarzaniem danych](DataProcessinChallenges.md)
+
+###### SQL
+- SQL Day 2022 - Zagadki SQL
+- SQL - QUALIFY
+- Spark SQL - SQL Compliance 
