@@ -1,6 +1,6 @@
 # SQL Day 2022 - Zagadki SQL
 
-## Challange 1
+## Zadanie 1
 Jaki jest wynik poniższego zapytania:
 ```sql
 DECLARE @t TABLE( Val INT);
@@ -18,3 +18,7 @@ SELECT * FROM #temp;
 DROP TABLE IF EXISTS #temp;
 ```
 **Wyjaśnienie:**
+Tutaj istotne jest zrozumienie różnic pomiędzy tabelami tymczasowymi i zmiennymi tabelarycznymi.
+Jedną z istotnych różnic jest fakt, że transakcje "nie obowiązują" dla zmiennych tabelarycznych.
+Zatem wycofanie transakcji nie spowoduje "wycofania" danych wstawionych do zmiennej tabelarycznej @t.
+Wynikiem zapytanie będzie result set z jednym rekordem.
