@@ -22,7 +22,7 @@ Tutaj istotne jest zrozumienie różnic pomiędzy tabelami tymczasowymi i zmienn
 Jedną z istotnych różnic jest fakt, że transakcje "nie obowiązują" dla zmiennych tabelarycznych.
 Zatem wycofanie transakcji nie spowoduje "wycofania" danych wstawionych do zmiennej tabelarycznej @t.
 Wynikiem zapytanie będzie result set z jednym rekordem.
-!(Result Set)[./imgs/SQLDay2022-Task1-Result.png]
+![Result Set](./imgs/SQLDay2022-Task1-Result.png)
 
 # Zadanie 2
 Jaki będzie wynik poniższego zapytania:
@@ -50,5 +50,5 @@ Zgodnie z dokumentacja domyślnie flaga XACT_ABORT jest wyłączona. Zatem kolej
 i ta operacja wygeneruje błąd, ale następna operacja (wystawienie danych do tabeli Table2) zostanie wykonana i zatwierdzona.
 Zatem wynikiem zapytanie będzie result set składający się z dwóch rekordów 1 oraz 21 
 
-!(Result Set)[./imgs/SQLDay2022-Task2-1-Result.png]
-!(Result Set)[./imgs/SQLDay2022-Task2-2-Result.png]
+![Error Message](./imgs/SQLDay2022-Task2-1-Result.png)
+![Result Set](./imgs/SQLDay2022-Task2-2-Result.png)
