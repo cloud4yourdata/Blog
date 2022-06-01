@@ -17,7 +17,7 @@ UNION ALL
 SELECT * FROM #temp;
 DROP TABLE IF EXISTS #temp;
 ```
-**Wyjaśnienie:**
+### Wyjaśnienie:
 Tutaj istotne jest zrozumienie różnic pomiędzy tabelami tymczasowymi i zmiennymi tabelarycznymi.
 Jedną z istotnych różnic jest fakt, że transakcje "nie obowiązują" dla zmiennych tabelarycznych.
 Zatem wycofanie transakcji nie spowoduje "wycofania" danych wstawionych do zmiennej tabelarycznej @t.
