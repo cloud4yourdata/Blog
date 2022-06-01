@@ -60,7 +60,7 @@ Jaki będzie wynik poniższego zapytania:
 ```sql
 SELECT CASE WHEN NULL = NULL THEN 1
             WHEN NULL <> NULL THEN 2
-			ELSE 2 END AS Result
+			ELSE 3 END AS Result
 ```
 Tutaj chodzi o to w jaki sposób porównywać/sprawdzać wartości **[NULL](https://docs.microsoft.com/en-us/sql/t-sql/queries/is-null-transact-sql?view=sql-server-ver16)**. Do prównywania NULL powiniśmy używać **IS NULL** ponieważ inne prówniania zwrócą wartość **UNKNOWN**.
 Zatem tutaj poprawną odpowiedzią jest result set z jednym rekorem - 3
