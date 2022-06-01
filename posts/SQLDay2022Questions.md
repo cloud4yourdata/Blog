@@ -51,6 +51,6 @@ Zgodnie z dokumentacja domyślnie flaga XACT_ABORT jest wyłączona. Zatem kolej
 i ta operacja wygeneruje błąd, ale następna operacja (wystawienie danych do tabeli Table2) zostanie wykonana i zatwierdzona.
 Zatem wynikiem zapytanie będzie result set składający się z dwóch rekordów 1 oraz 21 
 
-![Error Message](../imgs/SQLDay2022-Task2-1-Result.png)
+![Error Message](../imgs/SQLDay2022-Task2_1-Result.png)
 
-![Result Set](../imgs/SQLDay2022-Task2-2-Result.png)
+![Result Set](../imgs/SQLDay2022-Task2_2-Result.png)
