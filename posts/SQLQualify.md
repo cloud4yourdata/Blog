@@ -41,8 +41,8 @@ SELECT * FROM CTE WHERE rn = 1
 Jak to wygląda w przypadku innych silników.
 W przypadku Snowflake czy Spark SQL możliwe jest filtrowanie po wartości (wygenerowanej przez funkcje okienkową) kolumny za pomocą klauzuli **QUALIFY**.
 
-(Spark SQL Qualify)[https://docs.databricks.com/sql/language-manual/sql-ref-syntax-qry-select-qualify.html]
-(Snowflake SQL Qualify) [https://docs.snowflake.com/en/sql-reference/constructs/qualify.html]
+- [Spark SQL Qualify](https://docs.databricks.com/sql/language-manual/sql-ref-syntax-qry-select-qualify.html)
+- [Snowflake SQL Qualify] (https://docs.snowflake.com/en/sql-reference/constructs/qualify.html)
 
 W przypadku użycia QUALIFY zapytanie wygląda następująco:
 ```sql
