@@ -65,7 +65,7 @@ IF NULL <> NULL
 IF NULL IS NULL
  SELECT 3 AS Result
 ```
-Tutaj chodzi o to w jaki sposób porównywać/sprawdzać wartości **![NULL](https://docs.microsoft.com/en-us/sql/t-sql/queries/is-null-transact-sql?view=sql-server-ver16)**. Do prównywania NULL powiniśmy używać **IS NULL** ponieważ inne prówniania zwrócą wartość **UNKNOWN**.
+Tutaj chodzi o to w jaki sposób porównywać/sprawdzać wartości **[NULL](https://docs.microsoft.com/en-us/sql/t-sql/queries/is-null-transact-sql?view=sql-server-ver16)**. Do prównywania NULL powiniśmy używać **IS NULL** ponieważ inne prówniania zwrócą wartość **UNKNOWN**.
 Zatem tutaj poprawną odpowiedzią jest result set z jednym rekorem - 3
 
 ![Result Set](../imgs/SQLDay2022-Task3-Result.png)
