@@ -7,5 +7,5 @@
 
 ###### SQL
 - [SQL Day 2022 - Zagadki SQL](/posts/SQLDay2022Questions.md)
-- [SQL - QUALIFY](/posts/SQLQualify.mdSQLQualify.md)
-- [Spark SQL - SQL Compliance](/posts/SparkSQLCompliance.mdSparkSQLCompliance.md) 
+- [SQL - QUALIFY](/posts/SQLQualify.md)
+- [Spark SQL - SQL Compliance](/posts/SparkSQLCompliance.md) 
