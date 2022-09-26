@@ -1,0 +1,1 @@
+# Databricks vs Snowflake - podobieństwa
